@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.log{
+   max-width: 60%;
+   padding: 34px;
+    margin: auto;
+
+}
+.log h1{
+    margin-top: 110px;
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+ 
+}
+input{
+    width: 80%;
+    margin: 11px 0px;
+    padding: 7px;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 4px;
+    outline: none;
+    display: block;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btn{
+    color: white;
+    background-color: purple;
+    padding: 8px 12px ;
+   
+    font-size: 20px;
+border: 2px solid white;
+border-radius: 14px;
+cursor: pointer;
+}
+.bg1{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 1;
+}
+.bg2{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 1;
+}
+.bg3{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 1;
+}
+.bg4{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 1;
+}
+.bg5h{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 1;
+}
+.log h4{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+text-decoration: none;}
+a{
+    margin-top: 50px;
+    text-align: center;
+    color: azure;
+    text-decoration: none;
+}
+    .home{
+        color: rgb(87, 245, 245);
+       margin-left: 25%;
+      padding-top: 20%;
+     
+    }
+    .ho{
+       font-size: 50px; 
+    }
